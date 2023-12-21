@@ -22,6 +22,7 @@ public class Main {
         } else {
             System.out.println("Вы сохранили нуль");
         }
+        ///fyvgbhujik;
 
         System.out.println("Введите ваше имя:");
         Scanner scanner = new Scanner(System.in);
